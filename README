@@ -1,0 +1,9 @@
+GeoUtils utility for performing geographic calucations.
+
+distance between two points
+
+bearing based on two points
+
+midpoint of two points
+
+All methods are static methods of the GeoUtils class.
